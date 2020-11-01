@@ -27,6 +27,7 @@
 
 <br /><br />
 
+## My last Github activity
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#3](https://github.com/StefanoBichicchi/MyFulcronGRV/pull/3) in [StefanoBichicchi/MyFulcronGRV](https://github.com/StefanoBichicchi/MyFulcronGRV)
 2. 🎉 Merged PR [#5](https://github.com/StefanoBichicchi/MyFulcronGRV/pull/5) in [StefanoBichicchi/MyFulcronGRV](https://github.com/StefanoBichicchi/MyFulcronGRV)
@@ -35,4 +36,7 @@
 5. 🎉 Merged PR [#2](https://github.com/StefanoBichicchi/MyFulcronGRV/pull/2) in [StefanoBichicchi/MyFulcronGRV](https://github.com/StefanoBichicchi/MyFulcronGRV)
 <!--END_SECTION:activity-->
 
+<br />
+
+## My Github stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=StefanoBichicchi)](https://github.com/anuraghazra/github-readme-stats)
