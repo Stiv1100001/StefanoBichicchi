@@ -27,4 +27,7 @@
 
 <br /><br />
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=StefanoBichicchi)](https://github.com/anuraghazra/github-readme-stats)
