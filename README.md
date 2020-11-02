@@ -2,8 +2,10 @@
 
 ## I'm a student, who loves WebDev!
 - 🎓 I'm studying Computer Engineering in Italy, @unibo
+- 🏠 Based in Italy, Appennino Tosco-Emiliano
 - 🌍 I love web developing
 - 💬 I'm a book/comics lover
+- ⚔️ RPG & LARP lover
 - 📚 I'm always learning new programming languages and frameworks
 - 😎 JS developer
 
