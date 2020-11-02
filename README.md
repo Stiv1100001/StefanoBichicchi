@@ -39,4 +39,8 @@
 <br />
 
 ## My Github stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=StefanoBichicchi)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=StefanoBichicchi&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StefanoBichicchi)](https://github.com/anuraghazra/github-readme-stats)
