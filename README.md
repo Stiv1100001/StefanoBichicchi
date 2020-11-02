@@ -4,7 +4,7 @@
 - 🎓 I'm studying Computer Engineering in Italy, @unibo
 - 🌍 I love web developing
 - 💬 I'm a book/comics lover
-- 📚 I'm always learning new porgramming languages and frameworks
+- 📚 I'm always learning new programming languages and frameworks
 - 😎 JS developer
 
 ### Connect with me
