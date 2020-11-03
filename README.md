@@ -15,6 +15,9 @@
 [<img align="left" alt="StefanoBichicchi | Facebook" width="22px"  src="https://img.icons8.com/windows/48/000000/facebook-new.png" />](https://www.facebook.com/StefanoBichicchi)
 <br />
 
+## Buy me a coffe!
+<script type='text/javascript' src='https://ko-fi.com/widgets/CounterWidget.js'></script><script type='text/javascript'>counterwidget.init('P5P216HS3');counterwidget.draw();</script>
+
 ## Languages and Tools
 <img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="C" width="30px" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
