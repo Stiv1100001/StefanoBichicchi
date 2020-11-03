@@ -16,7 +16,7 @@
 <br />
 
 ## Buy me a coffe!
-Click here ---><a href="https://ko-fi.com/stivvv"><img width="30px" src="https://img.icons8.com/cotton/64/000000/coffee-to-go.png"/></a><----
+Click here <img src="https://img.icons8.com/ios-glyphs/30/000000/long-arrow-right.png"/><a href="https://ko-fi.com/stivvv"><img width="30px" src="https://img.icons8.com/cotton/64/000000/coffee-to-go.png"/></a><img src="https://img.icons8.com/ios-glyphs/30/000000/long-arrow-left.png"/>
 
 ## Languages and Tools
 <img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
