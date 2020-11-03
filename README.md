@@ -53,4 +53,4 @@
 <br />
 
 ## Most used languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StefanoBichicchi)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StefanoBichicchi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
