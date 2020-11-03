@@ -20,7 +20,7 @@
 <img align="left" alt="C" width="30px" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
 <img align="left" alt="Python" width="30px" src="https://img.icons8.com/color/48/000000/python.png"/>
 <img align="left" alt="Java" width="30px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-<img align="left" alt="PHP" width="30px" src="https://www.freepnglogos.com/uploads/php-logo-png/php-logo-php-elephant-logo-vectors-download-5.png"/>
+<img align="left" alt="PHP" style="margin-top:2px" width="30px" src="https://www.freepnglogos.com/uploads/php-logo-png/php-logo-php-elephant-logo-vectors-download-5.png"/>
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
