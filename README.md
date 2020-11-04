@@ -1,6 +1,10 @@
-### Hi there, I'm Steve!
+<h1 align="center">Hi 👋, I'm Steve!</h1>
+<h3 align="center">I'm a student, who loves WebDev!</h3>
 
-## I'm a student, who loves WebDev!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=stefanobichicchi&label=Profile%20views&color=0e75b6&style=flat" alt="stefanobichicchi" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stefanobichicchi" alt="stefanobichicchi" /></a> </p>
+
 - 🎓 I'm studying Computer Engineering in Italy, @unibo
 - 🏠 Based in Italy, Appennino Tosco-Emiliano
 - 🌍 I love web developing
@@ -8,52 +12,29 @@
 - ⚔️ RPG & LARP lover
 - 📚 I'm always learning new programming languages and frameworks
 - 😎 JS developer
+- 🔭 I’m currently working on [MyFulcronGRV](https://github.com/StefanoBichicchi/MyFulcronGRV)
+- 🌱 I’m currently learning **Nuxt.js**
+- 💬 Ask me about **WebDev!**
+- 📫 How to reach me **bichicchi.stefano@gmail.com**
 
-### Connect with me
-[<img align="left" alt="StefanoBichicchi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/stefano-bichicchi-68ba91169/)
-[<img align="left" alt="StefanoBichicchi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/ehystiv/)
-[<img align="left" alt="StefanoBichicchi | Facebook" width="22px"  src="https://img.icons8.com/windows/48/000000/facebook-new.png" />](https://www.facebook.com/StefanoBichicchi)
-<br />
-
-## Buy me a coffe!
-Click here <img src="https://img.icons8.com/ios-glyphs/30/000000/long-arrow-right.png"/><a href="https://ko-fi.com/stivvv"><img width="30px" src="https://img.icons8.com/cotton/64/000000/coffee-to-go.png"/></a><img src="https://img.icons8.com/ios-glyphs/30/000000/long-arrow-left.png"/>
-
-## Languages and Tools
-<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-<img align="left" alt="Python" width="30px" src="https://img.icons8.com/color/48/000000/python.png"/>
-<img align="left" alt="Java" width="30px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-<img align="left" alt="PHP" style="margin-top:5px" width="30px" src="https://www.freepnglogos.com/uploads/php-logo-png/php-logo-php-elephant-logo-vectors-download-5.png"/>
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="MongoDB" width="30px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
-<img align="left" alt="Vue.js" width="30px" src="https://img.icons8.com/color/48/000000/vue-js.png"/>
-<img align="left" alt="Git" width="30px" src="https://img.icons8.com/color/48/000000/git.png" />
-<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Raspberry" width="30px" src="https://img.icons8.com/color/48/000000/nginx.png" />
-<img align="left" alt="Raspberry" width="30px" src="https://img.icons8.com/color/48/000000/raspberry-pi.png" />
-
-<br /><br />
-
-## My last Github activity
+### My last Github activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/StefanoBichicchi/MyFulcronGRV/pull/3) in [StefanoBichicchi/MyFulcronGRV](https://github.com/StefanoBichicchi/MyFulcronGRV)
-2. 🎉 Merged PR [#5](https://github.com/StefanoBichicchi/MyFulcronGRV/pull/5) in [StefanoBichicchi/MyFulcronGRV](https://github.com/StefanoBichicchi/MyFulcronGRV)
-3. 🎉 Merged PR [#4](https://github.com/StefanoBichicchi/MyFulcronGRV/pull/4) in [StefanoBichicchi/MyFulcronGRV](https://github.com/StefanoBichicchi/MyFulcronGRV)
-4. 🎉 Merged PR [#6](https://github.com/StefanoBichicchi/MyFulcronGRV/pull/6) in [StefanoBichicchi/MyFulcronGRV](https://github.com/StefanoBichicchi/MyFulcronGRV)
-5. 🎉 Merged PR [#2](https://github.com/StefanoBichicchi/MyFulcronGRV/pull/2) in [StefanoBichicchi/MyFulcronGRV](https://github.com/StefanoBichicchi/MyFulcronGRV)
 <!--END_SECTION:activity-->
 
-<br />
 
-## My Github stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=StefanoBichicchi&theme=cobalt&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-<br />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/stefanobichicchi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="stefanobichicchi" height="30" width="40" /></a>
+<a href="https://fb.com/stefanobichicchi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="stefanobichicchi" height="30" width="40" /></a>
+</p>
 
-## Most used languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StefanoBichicchi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="hexo.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://quasar.dev/" target="_blank"> <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stefanobichicchi&show_icons=true&locale=en&layout=compact" alt="stefanobichicchi" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stefanobichicchi&show_icons=true&locale=en" alt="stefanobichicchi" /></p>
