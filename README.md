@@ -33,7 +33,6 @@
 <p align="left">
 <a href="https://dev.to/stefanobichicchi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="stefanobichicchi" height="30" width="40" /></a>
 <a href="https://fb.com/stefanobichicchi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="stefanobichicchi" height="30" width="40" /></a>
-</p>
 <a href="https://www.instagram.com/ehystiv/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="stefanobichicchi" height="30" width="40" /></a>
 </p>
 
