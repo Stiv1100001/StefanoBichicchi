@@ -27,6 +27,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- Nothing... (for now!)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
@@ -34,6 +35,7 @@
 <a href="https://dev.to/stefanobichicchi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="stefanobichicchi" height="30" width="40" /></a>
 <a href="https://fb.com/stefanobichicchi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="stefanobichicchi" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ehystiv/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="stefanobichicchi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/stefano-bichicchi-68ba91169/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="stefanobichicchi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
