@@ -43,7 +43,9 @@
 
 <br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stefanobichicchi&show_icons=true&locale=en&layout=compact" alt="stefanobichicchi" /></p>
+<br />
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=stefanobichicchi&show_icons=true&locale=en" alt="stefanobichicchi" /></p>
+<br />
 
 ### Support me!
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P216HS3)
