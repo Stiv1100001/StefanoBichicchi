@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on [MyFulcronGRV](https://github.com/StefanoBichicchi/MyFulcronGRV)
 - 🌱 I’m currently learning **Nuxt.js**
 - 💬 Ask me about **WebDev!**
-- 📫 How to reach me **bichicchi.stefano@gmail.com**
+- 📫 How to reach me -> **bichicchi.stefano@gmail.com**
 
 ### My last Github activities
 <!--START_SECTION:activity-->
