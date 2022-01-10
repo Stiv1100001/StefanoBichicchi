@@ -25,6 +25,8 @@
 
 <br />
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 
 ### Support me!
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P216HS3)
