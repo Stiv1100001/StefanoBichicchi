@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stefanobichicchi&label=Profile%20views&color=0e75b6&style=flat" alt="stefanobichicchi" /> </p>
 
-- 🎓 I'm studying Web Developing
 - 🏠 Based in Italy, Appennino Tosco-Emiliano
 - 🌍 I love web developing
 - 💬 I'm a book/comics lover
