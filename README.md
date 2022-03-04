@@ -24,6 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stiv1100001&show_icons=true&locale=en&layout=compact" alt="stiv1100001" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stiv1100001&show_icons=true&locale=en" alt="stiv1100001" /></p>
+<!--p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stiv1100001&show_icons=true&locale=en" alt="stiv1100001" /></p-->
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
