@@ -23,13 +23,17 @@
 <p><a href="https://ko-fi.com/Stivvv"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Stivvv" /></a></p><br><br>
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stiv1100001&show_icons=true&locale=en&layout=compact" alt="stiv1100001" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stiv1100001&show_icons=true&locale=en" alt="stiv1100001" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stiv1100001&show_icons=true&locale=en" alt="stiv1100001" /></p>
 <img style="margin: 20px auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=stiv1100001&show_icons=true&locale=en&layout=compact" alt="stiv1100001" />
 =======
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stiv1100001&show_icons=true&locale=en&layout=compact" alt="stiv1100001" />
 >>>>>>> parent of 66e367b (Update README.md)
+=======
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stiv1100001&show_icons=true&locale=en&layout=compact" alt="stiv1100001" />
+>>>>>>> parent of 66e367b (Update README.md) -->
 
 <!--p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stiv1100001&show_icons=true&locale=en" alt="stiv1100001" /></p-->
 
